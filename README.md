@@ -4,6 +4,10 @@
 
 A SwiftUI view that enables you to properly present a iOS 15 `TranslateViewController`.
 
+![TranslateViewInPad](https://user-images.githubusercontent.com/1254855/151277590-a3ce5ee5-291e-4a93-9130-6ebd7be4c743.jpeg)
+
+![TranslateViewInPhone](https://user-images.githubusercontent.com/1254855/151277612-caafa788-8dba-4edf-9725-9cbf86a7e68c.jpeg)
+
 ## Example
 
 ```swift
