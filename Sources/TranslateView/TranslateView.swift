@@ -71,6 +71,7 @@ private final class TranslateViewControllerWrapper: UIViewController {
                     textView.perform(NSSelectorFromString(["_", "trans", "late:"].joined(separator: "")), with: nil)
                     DispatchQueue.main.async {
                         textView.removeFromSuperview()
+                        self.text.wrappedValue = nil
                     }
                 }
             }
